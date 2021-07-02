@@ -14,6 +14,23 @@
 <p>O IPS combina uma série de indicadores sociais e ambientais, provenientes de bases de dados internacionais, além de pesquisas de percepção, com objetivo de identificar o cenário, os desafios e as oportunidades de progresso social dos países.É um índice que agrega indicadores sociais e ambientais que capturam três dimensões do progresso social: as Necessidades Humanas Básicas, os Fundamentos de Bem-Estar e as Oportunidades. Ele mede o progresso social utilizando estritamente indicadores de resultados, e não o esforço que um país realiza para alcançá-los.</p>
 <p>Projetado para complementar as métricas do PIB, o Índice de Progresso Social fornece uma visão abrangente sobre questões que mais têm impacto nas pessoas. O Índice de Progresso Social utiliza 51 indicadores sociais e ambientais para medir 149 países, incluindo 98% da população mundial.</p>
 
+<h2><b> Dashboard do Projeto</b></h2>
+<table>
+  <Td aling= center> <br>
+<A href - "">
+<img src = "https://user-images.githubusercontent.com/62921611/124300765-47d7b280-db35-11eb-909f-746d61b29c35.jpeg" width ="300px" alt = tela1 style = Largura Maxima: 100% /> 
+</a>
+</p>
+</Td>
+  <Td aling= center> <br>
+<A href - "">
+<img src = "https://user-images.githubusercontent.com/62921611/124301121-c03e7380-db35-11eb-8b79-1981ff9e0fad.jpeg" width ="300px" alt = tela2 style = Largura Maxima: 100% /> 
+</a>
+</p>
+</Td>
+</table>
+
+<h2><b>Integrantes</b></h2>
 <table>
 <Td aling= center> <br>
 <A href - "">
