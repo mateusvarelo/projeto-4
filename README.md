@@ -18,13 +18,13 @@
 <table>
   <Td aling= center> <br>
 <A href - "">
-<img src = "https://user-images.githubusercontent.com/62921611/124300765-47d7b280-db35-11eb-909f-746d61b29c35.jpeg" width ="350px" alt = tela1 style = Largura Maxima: 100% /> 
+<img src = "https://user-images.githubusercontent.com/62921611/124300765-47d7b280-db35-11eb-909f-746d61b29c35.jpeg" width ="400px" alt = tela1 style = Largura Maxima: 100% /> 
 </a>
 </p>
 </Td>
   <Td aling= center> <br>
 <A href - "">
-<img src = "https://user-images.githubusercontent.com/62921611/124301121-c03e7380-db35-11eb-8b79-1981ff9e0fad.jpeg" width ="350px" alt = tela2 style = Largura Maxima: 100% /> 
+<img src = "https://user-images.githubusercontent.com/62921611/124301121-c03e7380-db35-11eb-8b79-1981ff9e0fad.jpeg" width ="400px" alt = tela2 style = Largura Maxima: 100% /> 
 </a>
 </p>
 </Td>
