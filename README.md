@@ -9,6 +9,7 @@
 
 
 <h2><b> Dashboard do Projeto</b></h2>
+[Link do dashoard, para melhor visualização](https://public.tableau.com/views/Projeto4_2_16252486550060/painel01IPS?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 <table>
   <Td aling= center> <br>
 <A href - "">
