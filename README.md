@@ -1,3 +1,4 @@
+
 <h1><b> Projeto 4 - Resilia - Índice Progresso Social(IPS)</b></h1>
 
   <p> Este projeto tem o objetivo de realizar um tratamento de dados do IPS-RJ(Índice de progresso social do Rio de janeiro)
@@ -9,7 +10,9 @@
 
 
 <h2><b> Dashboard do Projeto</b></h2>
-[Link do dashoard, para melhor visualização](https://public.tableau.com/views/Projeto4_2_16252486550060/painel01IPS?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
+[Link do dashoard para melhor visualização](https://public.tableau.com/views/Projeto4_2_16252486550060/painel01IPS?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
 <table>
   <Td aling= center> <br>
 <A href - "">
@@ -59,3 +62,5 @@
 </p>
 </Td>
 </table>
+
+
