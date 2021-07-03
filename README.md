@@ -11,7 +11,9 @@
 
 <h2><b> Dashboard do Projeto</b></h2>
 
-[Link do dashoard para melhor visualização](https://public.tableau.com/views/Projeto4_2_16252486550060/painel01IPS?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+[Link do dashoard para melhor visualização.](https://public.tableau.com/views/Projeto4_2_16252486550060/painel01IPS?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
+### Para mais detalhes, consulte o nosso notebook [aqui](https://github.com/mateusvarelo/projeto-4/blob/main/notebook/projeto_4_IPS.ipynb) com a explicação sobre os passos para chegar a construção do projeto.
 
 <table>
   <Td aling= center> <br>
@@ -23,6 +25,8 @@
   <Td aling= center> <br>
 <A href - "">
 <img src = "https://user-images.githubusercontent.com/62921611/124301121-c03e7380-db35-11eb-8b79-1981ff9e0fad.jpeg" width ="400px" alt = tela2 style = Largura Maxima: 100% /> 
+
+
 </a>
 </p>
 </Td>
